@@ -2,8 +2,7 @@
 
 > Status do projeto: Em desenvolvimento
 
-Para rodar esse projeto na sua máquina, por favor digite: 
+Para rodar esse projeto na sua máquina, por favor clique: 
 
-```
-node index-home.html
-```
+
+<a href="index-home.html">Home</a>
