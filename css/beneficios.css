@@ -61,7 +61,7 @@ nav a:hover {
 }
 
 .fundoBeneficio {
-	background: url("imagens/bg.jpg");
+	background: url("bg.jpg");
 	text-transform: uppercase;
 	font-weight: bold;
 	font-size: 90%;
@@ -117,7 +117,7 @@ h3 a:hover {
 
 footer {
 	text-align: center;
-	background: url("imagens/bg.jpg");
+	background: url("bg.jpg");
 	padding: 1.5% 0;
 }
 
